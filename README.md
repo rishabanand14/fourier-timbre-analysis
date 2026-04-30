@@ -1,4 +1,4 @@
-# Musical Signal Analysis Using Fourier Transform
+# Frequency-Domain Analysis of Musical Timbre Using Fourier Transform
 
 A signal processing project that analyzes and compares the frequency content of two musical instruments,a  violin and clarinet, playing the same note (A4, 440 Hz). The project uses the Discrete Fourier Transform (DFT) to decompose audio signals into their frequency components and quantify why two instruments sound different despite playing the same pitch.
 
